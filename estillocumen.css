@@ -1,3 +1,13 @@
 h1 {
     background-color: green;
 }
+
+a {
+    display: inline-block;
+    border-radius: 2px;
+    box-shadow: 2px 3px 3px red;
+    max-width: 200px;
+    width: 20vw;
+    background-color: lightblue;
+    margin: 2px;
+}

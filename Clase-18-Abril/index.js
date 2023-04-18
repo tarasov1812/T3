@@ -3,7 +3,7 @@
 let divEligido;
 //pedimos al usuario a cual cuadrado el quiere poner la palabra
 do {
-divEligido = parseInt(prompt('Dime en cual cuadrado queires poner la palabra (entre 1 y 5)'));
+divEligido = parseInt(prompt('Dime en cual cuadrado queires poner la piramida (entre 1 y 5)'));
     // Si usuario puse un numero incorrecto ponemos una alerta
     if (divEligido <= 0 || divEligido > 5){
         alert('ENTRE 1 Y 5 POR FAVOR!!!!!');
